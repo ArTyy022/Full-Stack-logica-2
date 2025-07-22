@@ -24,5 +24,6 @@ console.log(nomes[1]); */
 
 //Desafio 6
 
+/*
 nomes = ['JavaScript', 'Python', 'Go'];
-console.log(nomes[2]);
+console.log(nomes[2]); */
